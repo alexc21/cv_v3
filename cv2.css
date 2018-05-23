@@ -1,0 +1,53 @@
+div.col-lg-3{
+		border:2px solid brown;
+        border-radius:10px;
+		text-align:center;
+}
+div.col-lg-6{
+		border: 2px solid brown;
+		border-radius:10px;
+		margin-top:5px;
+		text-align:center;
+		font-family:fantasy;
+	}
+div.col-lg-12{
+        margin-top:5px;
+		border: 2px solid brown;
+        border-radius:10px;
+		text-align:center;
+		font-family:fantasy;
+}
+ul{
+		text-align:center;
+		list-style-type:none;
+		font-weight:bold;
+		font-size:18px;
+}
+li.sg{
+        font-size:25px;
+		font-weight:normal;
+}
+h1{
+        font-family:'Indie Flower', cursive;
+        text-decoration:underline;
+}
+h1:hover{
+		color:red;
+	
+}
+div{
+		background-color:#ffbb5c;
+	
+}
+table{
+		/*border:1px solid black;*/
+		text-align:center;
+}
+td{
+		/*border:1px solid black;*/
+		font-family:gotham;
+}
+th{
+        color:red;
+        font-size:20px;
+}
